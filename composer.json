@@ -1,0 +1,16 @@
+{
+    "name": "lamai/trabalho",
+    "authors": [
+        {
+            "name": "Leandro Lamaison",
+            "email": "lamaisonleandro2@gmail.com"
+        }
+    ],
+    "require": {
+        "rubix/ml": "^0.1.5"
+    },
+    "scripts": {
+        "training": "php src/training.php",
+        "testing": "php src/testing.php"
+    }
+}
